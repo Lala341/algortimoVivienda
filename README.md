@@ -18,7 +18,7 @@ El entrenamiento del modelo requiere una gran cantidad de llamados a API, aunque
 
 ## Arhivos
 
-El notebook algorithm2, contiene el código de la solución.
+El notebook algorithm, contiene el código de la solución.
 
 APIs utilizadas:
 
