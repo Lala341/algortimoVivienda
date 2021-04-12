@@ -6,7 +6,7 @@ Preprocesamiento de los datos: Se añaden 8 columnas adicionales, provenientes d
 
 ## Resultados
 
-Se obtuvieron resultados favorables, entorno a las variables descritas, para la muestra seleccionada se usaron 8 clusters con la información de las zonas, adjunto los centros. El modelo retorna valores que corresponden con la realidad. Además, la fórmula planteada permite optimizar las ganancias de Habi, al adquirir una casa para su venta, ** al enviar la información en el kaggle se obtuvó el puesto de 10 con el modelo entrenado de solo la muestra de 866 , 0.4% de los datos de entrenamiento. **
+Se obtuvieron resultados favorables, entorno a las variables descritas, para la muestra seleccionada se usaron 8 clusters con la información de las zonas, adjunto los centros. El modelo retorna valores que corresponden con la realidad. Además, la fórmula planteada permite optimizar las ganancias de Habi, al adquirir una casa para su venta, **al enviar la información en el kaggle se obtuvó el puesto de 10 con el modelo entrenado de solo la muestra de 866 , 0.4% de los datos de entrenamiento.**
 
 ## Pasos a seguir
 
